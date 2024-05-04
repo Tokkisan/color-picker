@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color green
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable circle_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id blueBar
+id blueValue
+id blue_switch
+id color_view
+id greenBar
+id greenValue
+id green_switch
+id redBar
+id redValue
+id red_switch
+id reset
+id save_button
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Tes1
+xml backup_rules
+xml data_extraction_rules
